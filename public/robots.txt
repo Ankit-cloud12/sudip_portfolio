@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://ankit-cloud12.github.io/sudip_portfolio/sitemap.xml
+
+# Don't index 404 page
+Disallow: /404
